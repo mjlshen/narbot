@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/hits-devops-mishen-12c5/narbot:concurrent', '.']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/hits-devops-mishen-12c5/narbot:concurrent']

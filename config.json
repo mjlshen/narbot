@@ -1,0 +1,194 @@
+[
+  {
+    "name": "CC",
+    "url": "https://collabcare.med.umich.edu/"
+  },
+  {
+    "name": "CC-prod1a",
+    "url": "https://hsdclinweb-prod1a.med.umich.edu/collaborative-care/"
+  },
+  {
+    "name": "Confluence test",
+    "url": "https://wiki-test.med.umich.edu/"
+  },
+  {
+    "name": "ace",
+    "url": "https://www.umms.med.umich.edu/ace/js/common.js"
+  },
+  {
+    "name": "amadeus-prod",
+    "url": "http://www.umms.med.umich.edu/amadeus/versionDetails"
+  },
+  {
+    "name": "bdw-data-service",
+    "url": "https://www.umms.med.umich.edu/bdw-data-service/versionDetails"
+  },
+  {
+    "name": "candidate-interview-weekends",
+    "url": "https://www.umms.med.umich.edu/candidate-interview-weekends/versionDetails"
+  },
+  {
+    "name": "chcr-jira-prod",
+    "url": "https://chcr.umms.med.umich.edu/"
+  },
+  {
+    "name": "compliance-jira-prod",
+    "url": "https://JIRA-Compliance.med.umich.edu/"
+  },
+  {
+    "name": "confluence-prod",
+    "url": "https://wiki.med.umich.edu"
+  },
+  {
+    "name": "doctr-jira-prod",
+    "url": "https://doctrjira.med.umich.edu/"
+  },
+  {
+    "name": "faculty-interview-weekends",
+    "url": "https://www.umms.med.umich.edu/faculty-interview-weekends/versionDetails"
+  },
+  {
+    "name": "faculty-management-service",
+    "url": "https://www.umms.med.umich.edu/faculty-management-service/versionDetails"
+  },
+  {
+    "name": "faculty-planning-service",
+    "url": "https://www.umms.med.umich.edu/faculty-planning-service/versionDetails"
+  },
+  {
+    "name": "faculty-search",
+    "url": "https://www.umms.med.umich.edu/faculty-search/versionDetails"
+  },
+  {
+    "name": "faculty-search-ajax-call",
+    "url": "https://www.umms.med.umich.edu/faculty-search/api/programs?group=PIBS"
+  },
+  {
+    "name": "hits-jira-prod",
+    "url": "https://www.umms.med.umich.edu/projects/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "interview-weekends",
+    "url": "https://www.umms.med.umich.edu/interview-weekends/versionDetails"
+  },
+  {
+    "name": "interview-weekends-service",
+    "url": "https://www.umms.med.umich.edu/interview-weekends-service/versionDetails"
+  },
+  {
+    "name": "its-jira-prod",
+    "url": "https://itsjira.umms.med.umich.edu/"
+  },
+  {
+    "name": "jenkins-webui",
+    "url": "https://cd.med.umich.edu/login?from=%2F"
+  },
+  {
+    "name": "jira-compl-TEST",
+    "url": "https://jira-compliance-dev.med.umich.edu/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "jira-doctr-TEST",
+    "url": "https://doctrjira-test.umms.med.umich.edu/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "jira-hits-TEST",
+    "url": "https://hits-jira-test.med.umich.edu/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "jira-hits-DEV",
+    "url": "https://www.umms.med.umich.edu/projects-dev/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "jira-its-DEV",
+    "url": "https://itsjiradev.umms.med.umich.edu/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "jira-sd-TEST",
+    "url": "https://sd-jira-test.med.umich.edu/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "lmr-prod1a",
+    "url": "https://hsdclinwebint-prod1a.med.umich.edu/pmr/health-app"
+  },
+  {
+    "name": "lmr-prod1b",
+    "url": "https://hsdclinwebint-prod1b.med.umich.edu/pmr/health-app"
+  },
+  {
+    "name": "mace",
+    "url": "https://www.umms.med.umich.edu/mace/images/blockM.png"
+  },
+  {
+    "name": "marta",
+    "url": "https://www.umms.med.umich.edu/marta/img/icon_header.png"
+  },
+  {
+    "name": "mfactir",
+    "url": "https://www.umms.med.umich.edu/mfactir/versionDetails"
+  },
+  {
+    "name": "mfactir-service",
+    "url": "https://www.umms.med.umich.edu/mfactir-service/versionDetails"
+  },
+  {
+    "name": "msf-jira-prod",
+    "url": "https://www.umms.med.umich.edu/msf/login.jsp?saml_sso=false"
+  },
+  {
+    "name": "msis-static-www",
+    "url": "https://www.umms.med.umich.edu/msis/jquery/js/jquery.js"
+  },
+  {
+    "name": "non-it-jira-prod",
+    "url": "https://www.umms.med.umich.edu/jira/"
+  },
+  {
+    "name": "ogc-jira-prod",
+    "url": "https://ogc-nib-jira.med.umich.edu/"
+  },
+  {
+    "name": "orcr-jira-prod",
+    "url": "https://ORCR-jira.med.umich.edu"
+  },
+  {
+    "name": "parties",
+    "url": "https://www.umms.med.umich.edu/parties/docs/api-guide.html"
+  },
+  {
+    "name": "public-static-www",
+    "url": "https://www.umms.med.umich.edu/public/ems.jpg"
+  },
+  {
+    "name": "saber-401",
+    "url": "https://saber.med.umich.edu/public/401.html"
+  },
+  {
+    "name": "sd-jira-prod",
+    "url": "https://sd-jira.med.umich.edu"
+  },
+  {
+    "name": "shared-secure-jira-prod",
+    "url": "https://SharedSecure-Jira.med.umich.edu"
+  },
+  {
+    "name": "pretest-ace",
+    "url": "https://pretest.umms.med.umich.edu/ace/images/blockm.png"
+  },
+  {
+    "name": "pretest-bdw-data-service",
+    "url": "https://pretest.umms.med.umich.edu/bdw-data-service/versionDetails"
+  },
+  {
+    "name": "pretest-commitments",
+    "url": "https://pretest.umms.med.umich.edu/commitments/versionDetails"
+  },
+  {
+    "name": "pretest-compensation-components",
+    "url": "https://pretest.umms.med.umich.edu/compensation-components/versionDetails"
+  },
+  {
+    "name": "pretest-cosign-session",
+    "url": "https://pretest.umms.med.umich.edu/cosign-session/versionDetails"
+  }
+]
